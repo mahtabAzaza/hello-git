@@ -4,4 +4,5 @@ void main() {
     Car car = new Car(200, "QUICK");
     System.out.println(car);
     System.out.println("Mahtab");
+    System.out.println("Sepehr Amiri");
 }
